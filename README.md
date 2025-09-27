@@ -88,13 +88,3 @@
   - Trả về:
     ```json
     { "error": "Logout failed" }
-    ```
-
-## Các trường hợp lỗi cần kiểm thử
-- Đăng ký với username đã tồn tại
-- Đăng nhập với sai mật khẩu
-- Truy cập profile khi chưa đăng nhập
-- Đăng xuất khi chưa đăng nhập
-
-## Liên hệ
-Nếu có thắc mắc, vui lòng liên hệ qua email hoặc github của tác giả.
